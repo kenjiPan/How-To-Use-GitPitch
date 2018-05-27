@@ -1,2 +1,5 @@
-# Hey
-humman being , don't be afraid.
+### How To Use GitPitch
+
+https://github.com/kakisoft/HowToUseGitPitch/blob/master/PITCHME.md.txt
+
+
